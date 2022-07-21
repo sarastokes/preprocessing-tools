@@ -1,4 +1,4 @@
-# preprocessing_tools
+# preprocessing-tools
 Workflow for preprocessing functional imaging data
 
 
